@@ -1,0 +1,70 @@
+body {
+    background: rgb(121, 206, 233);
+}
+
+section {
+    position: relative;
+    border: 5px solid rgb(4, 203, 79);
+    margin: 20px auto;
+    max-width: 50%;
+
+
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Lora', serif;
+    font-size: 35px;
+}
+
+/* nav {
+    width: 100%;
+    margin: auto;
+}
+
+nav li {
+    list-style: none;
+    /* width: 100%; 
+    display: inline;
+} */
+
+nav {
+    display: flex;
+}
+
+nav li {
+    flex-direction: row;
+    justify-content: center;
+}
+
+a {
+    color: rgb(4, 203, 79);
+    font-style: bold;
+}
+
+
+h2 {
+    color: white;
+    font-style: bold;
+    margin-left: 15px;
+}
+
+p {
+    margin: 15px;
+}
+
+
+img {
+    float: right;
+    right: 0;
+    height: 350px;
+    width: 250px;
+
+}
+
+footer {
+    margin: 30px;
+    color: rgb(4, 203, 79);
+}
